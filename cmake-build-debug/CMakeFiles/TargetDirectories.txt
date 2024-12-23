@@ -1,0 +1,3 @@
+/home/joppo/programming/automatons/cmake-build-debug/CMakeFiles/automatons.dir
+/home/joppo/programming/automatons/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/joppo/programming/automatons/cmake-build-debug/CMakeFiles/rebuild_cache.dir
